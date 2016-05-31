@@ -1,0 +1,3 @@
+name: FirstPlugin
+main: io.github.tcode2k16.FirstPlugin.FirstPlugin
+version: 1.0
